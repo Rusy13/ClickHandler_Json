@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 21,
+    "major": "Computer Science",
+    "email": "john@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "age": 20,
+    "major": "Mathematics",
+    "email": "jane@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Alex Johnson",
+    "age": 22,
+    "major": "Physics",
+    "email": "alex@example.com"
+  }
+]

@@ -1,0 +1,17 @@
+<!-- res/layout/student_item.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/nameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+    <!-- Другие TextView для отображения других данных о студенте -->
+    <!-- Например: возраст, специальность, email -->
+</LinearLayout>
